@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">San Diego Tour Guide</string>
+
+    <string name="category_restaurants">Food</string>
+
+    <string name="restaurant_one">Sushi Ota</string>
+
+    <string name="res_description_one">Chef-owned Japanese outfit in a modest strip-mall locale crafts premium sushi and omakase tastings.</string>
+
+    <string name="restaurant_two">Island Prime</string>
+
+    <string name="res_description_two">Waterfront restaurant and lounge with modern decor and bay views specializes in Californian cuisine.</string>
+
+    <string name="restaurant_three">The Prado at Balboa Park</string>
+
+    <string name="res_description_three">Picturesque hacienda with a patio sets the scene for inspired Californian fare and happy-hour deals.</string>
+
+    <string name="category_attractions">Places</string>
+
+    <string name="attraction_one">Balboa Park</string>
+
+    <string name="att_description_one">Multi-attraction park covers 1,200 acres</string>
+
+    <string name="attraction_two">San Diego Zoo Safari Park</string>
+
+    <string name="att_description_two">Vast wildlife sanctuary with tours</string>
+
+    <string name="attraction_three">USS Midway Museum</string>
+
+    <string name="att_description_three">Historic aircraft with exhibits</string>
+
+    <string name="attraction_four">SeaWorld San Diego</string>
+
+    <string name="att_description_four">Aquatic theme park with shows and rides</string>
+
+    <string name="category_events">Events</string>
+
+    <string name="events_one">San Diego Chargers</string>
+
+    <string name="eve_description_one">November 13, Qualcomm Stadium</string>
+
+    <string name="events_two">Mac Miller</string>
+
+    <string name="eve_description_two">November 14, The Observatory North Park</string>
+
+    <string name="events_three">The Sound of Music</string>
+
+    <string name="eve_description_three">November 15, San Diego Civic Theatre</string>
+
+    <string name="category_shopping">Shops</string>
+
+    <string name="shopping_one">Fashion Valley</string>
+
+    <string name="shop_description_one">Large shopping center with chain department stores, a movie theater and casual dining options.</string>
+
+    <string name="shopping_two">Westfield UTC</string>
+
+    <string name="shop_description_two">Outdoor shopping center with upmarket chain retailers, a movie theater and a skating rink.</string>
+
+    <string name="shopping_three">Ikea</string>
+
+    <string name="shop_description_three">Scandinavian chain selling ready-to-assemble furniture, plus housewares, in a warehouse-like space.</string>
+
+
+</resources>
